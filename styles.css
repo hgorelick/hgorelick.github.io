@@ -108,7 +108,7 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #3f51b5;
+  color: #4860e3;
   text-decoration: none;
   transition: color 0.6s ease;
 }
@@ -1494,7 +1494,7 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-  color: #8c9eff;
+  color: #ffffff;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
