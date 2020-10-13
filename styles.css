@@ -1636,6 +1636,7 @@ nav#navbar-main li.nav-item {
     color: #8c9eff;
     background: #0d7ad9;
     margin: 0 10px;
+    border-radius: 20px;
   }
 
   .collapse.in {
