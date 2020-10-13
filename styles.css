@@ -1496,7 +1496,8 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
   color: #ffffff;
   font-weight: 700;
-  background-color: transparent !important; /* Override Bootstrap. */
+  background: #0d7ad9;
+  /*background-color: transparent !important; !* Override Bootstrap. *!*/
 }
 
 .navbar-brand,
