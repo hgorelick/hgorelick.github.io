@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c5c645d-6ac2-4f15-8ad7-a0be495e0d06" name="Default Changelist" comment="added linkedin">
+    <list default="true" id="7c5c645d-6ac2-4f15-8ad7-a0be495e0d06" name="Default Changelist" comment="updated spacing in bio">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602601621002</updated>
       <workItem from="1602601622845" duration="45000" />
-      <workItem from="1602601702209" duration="19894000" />
+      <workItem from="1602601702209" duration="20095000" />
     </task>
     <task id="LOCAL-00001" summary="sync with webstorm">
       <created>1602624289815</created>
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602624771926</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated spacing in bio">
+      <created>1602624823426</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602624823426</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,17 +137,18 @@
     <MESSAGE value="sync with webstorm" />
     <MESSAGE value="updated" />
     <MESSAGE value="added linkedin" />
-    <option name="LAST_COMMIT_MESSAGE" value="added linkedin" />
+    <MESSAGE value="updated spacing in bio" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated spacing in bio" />
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602606794380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602606794380" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1602624775622">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1602624825942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602624775622" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602624825942" />
     <state x="664" y="0" width="772" height="1040" key="find.popup" timestamp="1602624151369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
