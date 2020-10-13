@@ -1,0 +1,83 @@
+[
+  {
+    "authors": [
+      "Henry Gorelick",
+      "Ruhul Amin"
+    ],
+    "categories": null,
+    "date": "2020-10-13T15:47-05:00",
+    "kind": "page",
+    "lang": "en",
+    "lastmod": "2020-10-13T15:47-05:00",
+    "objectID": "309b6415567caa79b4e87f9145de8c57",
+    "permalink": "https://hgorelick.github.io/publicationss/eacl21/",
+    "relpermalink": "/publications/eacl21/",
+    "section": "publication",
+    "summary": "Since its publication in 1868, approximately 1.78 million copies of Louisa May Alcott’s Little Women have been sold, which equates to about 1,000 copies a month for 152 years. Every publisher in the industry hopes to find a manuscript that can sell even 10,000 copies in its lifetime. This begs the question: what makes Little Women a timeless success? Recently, researchers have attempted to use machine learning and natural language processing to answer this question, among others. In this paper, we attempt to improve upon the state-of-the-art in predicting a novel’s success by modeling the lexical semantic relationships of its contents. We created the largest dataset used in such a project containing lexical data from 18,000 books from Project Gutenberg. We utilized domain specific feature reduction techniques to implement the most accurate models to date for predicting book success, with our best model achieving an average accuracy of 94.0%. By analyzing the model parameters, we extracted the successful semantic relationships from books of 12 different genres. We then mapped context free grammar rules and WordNet’s semantic word relations to a set of themes, as defined in Roget’s Thesaurus. With these mappings, we discovered the themes that successful books of a given genre prioritize. In other words, if you want to write a bad children’s book, write about keeping quiet in school.",
+    "tags": null,
+    "title": "Syntax and Themes: How Context Free Grammar Rules and Semantic Word Association Influence Book Success",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Henry Gorelick",
+      "Ruhul Amin"
+    ],
+    "categories": null,
+    "date": "2020-10-13T15:47-05:00",
+    "kind": "page",
+    "lang": "en",
+    "lastmod": "2020-10-13T15:47-05:00",
+    "objectID": "309b6415567caa79b4e87f9145de8c57",
+    "permalink": "https://hgorelick.github.io/publicationss/wsdm21/",
+    "relpermalink": "/publications/eacl21/",
+    "section": "publication",
+    "summary": "First published in 1868, Louisa May Alcott’s Little Women, has never been out of print. Since its publication, approximately 1.78 million copies of Little Women have been sold, which equates to about 1,000 copies a month for 152 years. Every publisher in the industry hopes to find a manuscript that can sell even 100,000 copies, let alone 1,000 copies a month for 150 years. This begs the question: what makes Little Women a timeless success? Recently, and with some promising results, researchers have taken up the task of using machine learning and natural language processing to answer this question among others. In this paper, we attempt to predict a novel’s success by modeling the lexical-semantic relationships of its contents. We built upon the previous research in this field and created the largest dataset used in such a project containing various lexical data from 18,000 books from Project Gutenberg. We utilized domain-specific feature reduction techniques to implement the most accurate models to date for predicting book success, with our best model achieving an average accuracy of 95.4%. While such strong performance in success prediction is impressive, we dug deeper to interpret the high accuracy. By analyzing the model parameters, we extracted the semantic relationships that separate successful books from the unsuccessful ones for books of 12 different genres. We found a mapping from WordNet’s semantic word relations to a set of themes, as defined in Roget’s Thesaurus. With this mapping, we discovered the themes that successful books of a given genre prioritize. In other words, if you want to write a bad children’s book, write about keeping quiet in school.",
+    "tags": null,
+    "title": "Using Semantic Word Associations to Predict and Interpret the Success of Novels",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Henry Gorelick",
+      "D. F. Hsu (advisor)"
+    ],
+    "categories": null,
+    "date": "2020-10-13T15:47-05:00",
+    "kind": "page",
+    "lang": "en",
+    "lastmod": "2020-10-13T15:47-05:00",
+    "objectID": "309b6415567caa79b4e87f9145de8c57",
+    "permalink": "https://hgorelick.github.io/publicationss/wsdm21/",
+    "relpermalink": "/publications/thesis/",
+    "section": "publication",
+    "summary": "The goal of this master’s thesis is to demonstrate that combinatorial fusion analysis (CFA) can effectively predict winners and enhance play strategy of Blizzard Entertainment’s collectible card game Hearthstone. CFA is used to combine and evaluate the performance of the combinatorial combinations of five machine learning models trained on 500 Hearthstone game simulations. For each combinatorial combination, the score function of the score combination and the score function of the rank combination is derived for each of the five models, and the performance of each is compared and evaluated. The improvement in performance of certain combinations over the individual components validates that CFA is an effective method for predicting the winner of Hearthstone games and enhancing play strategy. Furthermore, the resulting models could be used to boost Monte Carlo Tree Search and implement a competitive Hearthstone playing AI agent.",
+    "tags": null,
+    "title": "Predicting and Enhancing Hearthstone Strategy with Combinatorial Fusion",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Wenjia Zheng",
+      "Michael Tynes",
+      "Henry Gorelick",
+      "Ying Mao",
+      "Long Cheng",
+      "Yantian Hou"
+    ],
+    "categories": null,
+    "date": "2020-10-13T15:47-05:00",
+    "kind": "page",
+    "lang": "en",
+    "lastmod": "2020-10-13T15:47-05:00",
+    "objectID": "309b6415567caa79b4e87f9145de8c57",
+    "permalink": "https://hgorelick.github.io/publicationss/wsdm21/",
+    "publishdate": "2019-08-1T00:00:00Z",
+    "relpermalink": "/publications/flowcon/",
+    "section": "publication",
+    "summary": "An increasing number of companies are using data analytics to improve their products, services, and business processes. However, learning knowledge effectively from massive data sets always involves nontrivial computational resources. Most businesses thus choose to migrate their hardware needs to a remote cluster computing service (e.g., AWS) or to an in-house cluster facility which is often run at its resource capacity. In such scenarios, where jobs compete for available resources utilizing resources effectively to achieve high-performance data analytics becomes desirable. Although cluster resource management is a fruitful research area having made many advances (e.g., YARN, Kubernetes), few projects have investigated how further optimizations can be made specifically for training multiple machine learning (ML) / deep learning (DL) models. In this work, we introduce FlowCon, a system which is able to monitor loss functions of ML/DL jobs at runtime, and thus to make decisions on resource configuration elastically. We present a detailed design and implementation of FlowCon, and conduct intensive experiments over various DL models. Our experimental results show that FlowCon can strongly improve DL job completion time and resource utilization efficiency, compared to existing approaches. Specifically, FlowCon can reduce the completion time by up to 42.06% for a specific job without sacrificing the overall makespan, in the presence of various DL job workloads.",
+    "tags": null,
+    "title": "FlowCon: Elastic Flow Configuration for Containerized Deep Learning Applications",
+    "type": "publication"
+  }
+  ]

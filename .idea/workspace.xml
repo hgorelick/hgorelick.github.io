@@ -1,13 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7c5c645d-6ac2-4f15-8ad7-a0be495e0d06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/EACL.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/WSDM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/cv.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/thesis.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/headshot.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/predicting_success/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/syntax_and_themes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/thesis/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publications/eacl21/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publications/flowcon/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publications/wsdm21/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hgorelick.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hgorelick.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,10 +64,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hgore\Documents\hgorelick.github.io\project" />
+      <recent name="C:\Users\hgore\Documents\hgorelick.github.io\publication" />
+      <recent name="C:\Users\hgore\Documents\hgorelick.github.io\files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hgore\Documents\hgorelick.github.io\publications" />
+      <recent name="C:\Users\hgore\Documents\hgorelick.github.io\files" />
+      <recent name="C:\Users\hgore\Documents\hgorelick.github.io\project\thesis" />
+      <recent name="C:\Users\hgore\Documents\hgorelick.github.io\img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602601621002</updated>
       <workItem from="1602601622845" duration="45000" />
-      <workItem from="1602601702209" duration="710000" />
+      <workItem from="1602601702209" duration="17694000" />
     </task>
     <servers />
   </component>
@@ -49,5 +116,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602606794380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602606794380" />
+    <state x="664" y="0" width="772" height="1040" key="find.popup" timestamp="1602621607274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="0" width="772" height="1040" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602621607273" />
   </component>
 </project>
