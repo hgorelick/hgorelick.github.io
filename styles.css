@@ -1364,8 +1364,8 @@ a.badge:hover {
 }
 
 .btn-outline-primary {
-  /*border-color: #2b356a;*/
-  /*color: #2b356a;*/
+  border-color: #2b356a;
+  color: white;
   background: #2b356a;
 }
 
