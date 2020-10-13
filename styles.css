@@ -1634,7 +1634,8 @@ nav#navbar-main li.nav-item {
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:focus,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:hover {
     color: #8c9eff;
-    background-color: transparent;
+    background: #0d7ad9;
+    margin: 0 10px;
   }
 
   .collapse.in {
