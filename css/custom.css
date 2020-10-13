@@ -718,6 +718,21 @@ article {
   z-index: 3;
 }
 
+.card-project-title {
+  margin: 0;
+  font-size: 0.8rem;
+}
+
+.card-project-title > a {
+  color: black;
+}
+
+.card-project-subtitle {
+  font-size: 0.8rem;
+  font-style: italic;
+  font-weight: bold;
+}
+
 /*************************************************
  *  Card component
  **************************************************/

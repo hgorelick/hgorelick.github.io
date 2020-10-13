@@ -1114,6 +1114,21 @@ article .article-metadata {
   z-index: 3;
 }
 
+.card-project-title {
+  margin: 0;
+  font-size: 0.8rem;
+}
+
+.card-project-title > a {
+  color: black;
+}
+
+.card-project-subtitle {
+  font-size: 0.8rem;
+  font-style: italic;
+  font-weight: bold;
+}
+
 /*************************************************
  *  Card component
  **************************************************/
@@ -1175,7 +1190,7 @@ article .article-metadata {
 }
 
 .card .card-text {
-  padding: 0.75rem 1rem 0.75rem;
+  padding: 0.5rem 0 0.5rem;
 }
 
 .card .card-text p {
@@ -1231,6 +1246,10 @@ article .article-metadata {
 
 .card:hover .card-image.hover-overlay:after {
   opacity: 0.6;
+}
+
+.exp-desc-no-sub {
+  margin-top: 1.25rem;
 }
 
 /*************************************************
