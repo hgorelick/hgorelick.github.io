@@ -101,14 +101,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #3f51b5;
+  color: #2b356a;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #3f51b5;
+  color: #2b356a;
 }
 
 img,
@@ -530,7 +530,7 @@ article {
 }
 
 .article-metadata a:hover {
-  color: #3f51b5;
+  color: #2b356a;
 }
 
 .article-list-item {
@@ -883,8 +883,8 @@ footer a#back_to_top i {
  **************************************************/
 
 .btn-primary {
-  border-color: #3f51b5 !important;
-  background: #3f51b5 !important;
+  border-color: #2b356a !important;
+  background: #2b356a !important;
 }
 
 .btn-primary:hover,
@@ -892,7 +892,7 @@ footer a#back_to_top i {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #3f51b5 !important;
+  background: #2b356a !important;
 }
 
 .btn-light {
@@ -945,12 +945,12 @@ footer a#back_to_top i {
 }
 
 .btn-primary.btn-outline {
-  color: #3f51b5 !important;
-  border-color: #3f51b5 !important;
+  color: #2b356a !important;
+  border-color: #2b356a !important;
 }
 
 .btn-primary.btn-outline:focus {
-  color: #3f51b5 !important;
+  color: #2b356a !important;
 }
 
 .btn-primary.btn-outline:active {
@@ -1004,7 +1004,7 @@ footer a#back_to_top i {
 }
 
 .navbar-default {
-  background: #3f51b5;
+  background: #2b356a;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1066,7 +1066,7 @@ nav#navbar-main li {
 }
 
 .dropdown-menu {
-  background-color: #3f51b5 !important;
+  background-color: #2b356a !important;
 }
 
 .dropdown-menu > li > a {
@@ -1083,13 +1083,13 @@ nav#navbar-main li {
 .dropdown-menu>li>a:hover {
   color: #8c9eff;
   text-decoration: none;
-  background-color: #3f51b5;
+  background-color: #2b356a;
 }
 
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:focus,
 .dropdown-menu > .active > a:hover {
-  color: #3f51b5;
+  color: #2b356a;
   text-decoration: none;
   background-color: #8c9eff;
   outline: 0;
@@ -1100,7 +1100,7 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>.open>a:hover,
 .navbar-default .navbar-nav>.open>a:visited {
   color: #fff !important;
-  background-color: #3f51b5 !important;
+  background-color: #2b356a !important;
 }
 
 .navbar-default .navbar-brand {
@@ -1361,7 +1361,7 @@ body.dark {
 }
 
 .dark ul.share li a {
-  background-color: #3f51b5;
+  background-color: #2b356a;
 }
 
 .dark table table {
@@ -1415,7 +1415,7 @@ body.dark {
 }
 
 .dark .card h4 a {
-  color: #3f51b5;
+  color: #2b356a;
   border-bottom: solid 1px transparent;
 }
 
