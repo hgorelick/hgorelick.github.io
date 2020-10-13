@@ -19,49 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c5c645d-6ac2-4f15-8ad7-a0be495e0d06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hgorelick.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hgorelick.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="7c5c645d-6ac2-4f15-8ad7-a0be495e0d06" name="Default Changelist" comment="sync with webstorm">
       <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/EACL.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/EACL.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/WSDM.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/WSDM.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/cv.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/thesis.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/thesis.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/android-chrome-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/android-chrome-512x512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/headshot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/headshot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portrait.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portrait.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/img/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/hugo-academic.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/hugo-academic.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/mathjax-config.500a6cbb2c0f345fcecc21b3116d6637aa78f1f11db8081ea581abe05390c2e8f3bbffe61be3cf0217baf785c40efceabe51050a4f007e69af94efd3643260e8.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/mathjax-config.500a6cbb2c0f345fcecc21b3116d6637aa78f1f11db8081ea581abe05390c2e8f3bbffe61be3cf0217baf785c40efceabe51050a4f007e69af94efd3643260e8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/reveal.js/plugin/notes/notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/vendor/reveal.js/plugin/notes/notes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/reveal.js/plugin/notes/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/vendor/reveal.js/plugin/notes/notes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/predicting_success/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/predicting_success/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/syntax_and_themes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/syntax_and_themes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/thesis/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/thesis/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications/eacl21/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications/eacl21/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications/flowcon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications/flowcon/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications/wsdm21/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications/wsdm21/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,8 +78,16 @@
       <option name="presentableId" value="Default" />
       <updated>1602601621002</updated>
       <workItem from="1602601622845" duration="45000" />
-      <workItem from="1602601702209" duration="19295000" />
+      <workItem from="1602601702209" duration="19579000" />
     </task>
+    <task id="LOCAL-00001" summary="sync with webstorm">
+      <created>1602624289815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602624289815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,11 +104,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sync with webstorm" />
+    <option name="LAST_COMMIT_MESSAGE" value="sync with webstorm" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="624" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602606794380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602606794380" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1602624349781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602624349781" />
     <state x="664" y="0" width="772" height="1040" key="find.popup" timestamp="1602624151369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
