@@ -1498,8 +1498,8 @@ nav#navbar-main li.nav-item {
   color: #ffffff;
   font-weight: 700;
   background: #0d7ad9;
-  margin: 0 10px;
-  border-radius: 20px;
+  /*margin: 0 10px;*/
+  /*border-radius: 20px;*/
 }
 
 .navbar-brand,
