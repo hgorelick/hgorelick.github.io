@@ -1498,7 +1498,8 @@ nav#navbar-main li.nav-item {
   color: #ffffff;
   font-weight: 700;
   background: #0d7ad9;
-  /*background-color: transparent !important; !* Override Bootstrap. *!*/
+  margin: 0 10px;
+  border-radius: 20px;
 }
 
 .navbar-brand,
@@ -1634,9 +1635,7 @@ nav#navbar-main li.nav-item {
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:focus,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:hover {
     color: #8c9eff;
-    background: #0d7ad9;
-    margin: 0 10px;
-    border-radius: 20px;
+    background-color: transparent;
   }
 
   .collapse.in {
