@@ -1121,6 +1121,7 @@ article .article-metadata {
 
 .card-project-title > a {
   color: black;
+  text-decoration: underline;
 }
 
 .card-project-subtitle {
